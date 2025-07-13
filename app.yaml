@@ -1,0 +1,1 @@
+command: ["bash", "-c", "playwright install chromium && python mcp_playwright_scraper/server.py"]

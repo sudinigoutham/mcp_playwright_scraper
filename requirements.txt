@@ -1,0 +1,5 @@
+mcp
+playwright>=1.30.0
+beautifulsoup4
+pypandoc
+uv
