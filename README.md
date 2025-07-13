@@ -1,6 +1,6 @@
 # mcp-playwright-scraper
 
-A Model Context Protocol (MCP) server that scrapes web content and converts it to Markdown.
+A Model Context Protocol (MCP) server that scrapes web content and converts it to Markdown..
 
 ## Overview
 
